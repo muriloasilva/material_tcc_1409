@@ -5,7 +5,7 @@ A primeira etapa do TCC tem como principais objetivos a definição do cronogram
 
 A segunda etapa do TCC deverá envolver necessariamente uma pesquisa bibliográfica e a pesquisa empírica, caso haja a coleta de dados. A pesquisa empírica contempla a coleta de dados, que poderá ser realizada no local de trabalho, estágio ou, quando for o caso, por meio de visitas técnicas e entrevistas com profissionais da área.
 Conforme o §2º do artigo 1º do Regulamento Geral do Trabalho de Conclusão de Curso – TCC: 
-em todas as habilitações, obrigatoriamente, o TCC será composto de uma apresentação escrita. Dessa forma, de acordo com a natureza e o perfil do técnico que pretende formar, cada Habilitação Profissional definirá qual dos produtos abaixo corresponderá à representação escrita do TCC:
+em todas as habilitações, obrigatoriamente, o TCC será composto de uma apresentação escrita. Dessa forma, de acordo com a natureza e o perfil do técnico que pretende formar, cada Habilitação Profissional definirá qual dos produtos abaixo corresponderá à representação escrita do TCC:
 
 a) Monografia;
 b) Manual Técnico;
